@@ -159,7 +159,15 @@
           "type": "technology"
         },
         {
+          "name": "MariaDB",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
           "type": "technology"
         },
         {
@@ -176,6 +184,10 @@
         },
         {
           "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "n8n",
           "type": "technology"
         }
       ],
