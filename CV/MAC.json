@@ -233,6 +233,7 @@
         "name": "n8n",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Busco incorporarme como desarrollador Full Stack o en equipos de integraciones y automatización técnica. Valoro especialmente trabajar en productos vivos (SaaS, scale-ups o consultoría tecnológica moderna) con buenas prácticas de ingeniería: código limpio, arquitecturas desacopladas (Symfony, React, Docker) y resolución de problemas de negocio reales.\n\nMe motiva estar en un entorno con cultura técnica abierta donde pueda aportar tanto en desarrollo estructurado como en automatizaciones operativas con IA (n8n, APIs de LLMs). Prefiero un rol de individual contributor con autonomía técnica y un equipo donde haya aprendizaje mutuo y transparencia.\n"
   }
 }
