@@ -1,0 +1,194 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Correa Ribeiro",
+      "title": "Full Stack Developer amp; AI Automation Engineer | Symfony 7 · React 18 · Docker · Node.js · n8n amp; OpenAI API",
+      "description": "Técnico Superior en Desarrollo de Aplicaciones Web (DAW) especializado en automatización con Inteligencia Artificial. No solo estudio IA: la aplico en producción — he diseñado y desplegado un bot de WhatsApp que automatiza pedidos para un negocio real, usando n8n y agentes de Claude (prompting, subagentes, MCP). A eso sumo una base sólida de desarrollo (JavaScript, PHP, Symfony) y experiencia hablando en público sobre IA en un evento en Granada. Actualmente busco incorporarme a un equipo (remoto o en Valencia) donde convertir procesos manuales en automatizaciones que ahorren tiempo y generen resultados medibles. 🔧 Stack: JavaScript · Python · PHP · Symfony · n8n · Claude (agentes, MCP) · PrestaShop 📩 pablocorrea1404@gmail.com",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-correa-ribeiro-2462552a9/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "AssistantBot"
+        },
+        "roles": [
+          {
+            "name": "Prácticas FCT — Desarrollo y soporte web",
+            "startDate": "2026-02-01",
+            "finishDate": "2026-06-01",
+            "challenges": [
+              {
+                "description": "Empresa de robots con IA aplicados al pádel.   Modificaciones y mantenimiento en páginas web de clientes alojadas por la empresa.   Soporte técnico y resolución de incidencias en entornos de producción."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autoweb Pro"
+        },
+        "roles": [
+          {
+            "name": "Fundador y Desarrollador",
+            "startDate": "2026-02-01",
+            "finishDate": "2026-08-01",
+            "challenges": [
+              {
+                "description": "Agencia de diseño web y automatización con IA para pequeños negocios, especializada en bots de WhatsApp con n8n.   Diseñé y desplegué en producción un bot de WhatsApp que automatiza el registro de pedidos en Excel para un negocio real (Molletes Antequera), eliminando el proceso manual.   Optimicé el rendimiento web de un cliente, reduciendo el tiempo de carga un 30%.   Construí el embudo de captación completo: landing page, campañas de Meta Ads, email marketing y guion de venta.   Desarrollé 6 demos-prototipo por sector como material de prospección comercial."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "n8n",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web (DAW)",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "IES Hermenegildo Lanz"
+        },
+        "finishDate": "2026-06-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pablo-correa-ribeiro-2462552a9/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React Native",
+        "type": "technology"
+      },
+      {
+        "name": "n8n",
+        "type": "technology"
+      }
+    ]
+  }
+}
