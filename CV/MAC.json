@@ -155,6 +155,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
