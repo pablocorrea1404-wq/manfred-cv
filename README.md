@@ -2,7 +2,7 @@
 
 # Pablo Correa Ribeiro's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/3c64f538-6606-4f41-9da7-b4c0378825ae).
 <br/>
 <br/>
 
