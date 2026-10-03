@@ -159,6 +159,14 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
